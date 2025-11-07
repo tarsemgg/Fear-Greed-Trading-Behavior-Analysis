@@ -11,9 +11,13 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear vs
 ## Datasets
 
 **1. Trader Execution Dataset**
+Download: [https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+
 Contains individual trade records including price, position, PnL, and side.
 
 **2. Bitcoin Sentiment Dataset**
+Download: [https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+
 Contains daily sentiment scores and sentiment classification labels.
 
 The datasets were merged on the `Date` column to align trading activity with daily sentiment.
